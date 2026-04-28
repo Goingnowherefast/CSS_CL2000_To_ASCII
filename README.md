@@ -1,6 +1,6 @@
 # CL2000 → Vector ASC Converter
 
-A lightweight Python desktop application that converts **Intrepid/CL2000 CAN logger TXT files** into **Vector ASC format** compatible with CANalyzer and CANoe.
+A lightweight Python desktop application that converts **CSS CL2000 CAN logger TXT files** into **Vector ASC format** compatible with CANalyzer and CANoe.
 
 ---
 
